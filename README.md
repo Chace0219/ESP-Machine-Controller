@@ -15,3 +15,5 @@ Programmable logic controller project using ESP8266
 - None blocking DHT22 sensor library
 
 # Wiring Diagram & Screenshots
+![wiring](https://github.com/chace1989/ESP8266-Machine-Controller/blob/master/Wiring.png)
+
