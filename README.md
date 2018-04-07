@@ -14,6 +14,12 @@ Programmable logic controller project using ESP8266
 - Programamble control logic system using FSM & FBD
 - None blocking DHT22 sensor library
 
+# screenshots
+![image1](https://github.com/Chace0219/ESP8266-Machine-Controller/blob/master/hmi/3.2inch/01-main.png)
+![image2](https://github.com/Chace0219/ESP8266-Machine-Controller/blob/master/hmi/3.2inch/02-diag01.png)
+
+
 # Wiring Diagram & Screenshots
 ![wiring](https://github.com/chace1989/ESP8266-Machine-Controller/blob/master/Wiring.png)
+
 
