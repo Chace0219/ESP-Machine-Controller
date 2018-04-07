@@ -17,7 +17,7 @@ Programmable logic controller project using ESP8266
 # screenshots
 ![image1](https://github.com/Chace0219/ESP8266-Machine-Controller/blob/master/hmi/3.2inch/01-main.png)
 ![image2](https://github.com/Chace0219/ESP8266-Machine-Controller/blob/master/hmi/3.2inch/02-diag01.png)
-
+![image3](https://github.com/Chace0219/ESP8266-Machine-Controller/blob/master/hmi/3.2inch/04-diag03.png)
 
 # Wiring Diagram & Screenshots
 ![wiring](https://github.com/chace1989/ESP8266-Machine-Controller/blob/master/Wiring.png)
