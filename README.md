@@ -1,4 +1,4 @@
-# ESP8266-Machine-Controller
+# ESP deve kit based Machine Controller 
 Programmable logic controller project using ESP8266
 
 # Components
