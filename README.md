@@ -1,5 +1,5 @@
 # ESP deve kit based Machine Controller 
-Programmable logic controller project using ESP8266
+Programmable logic controller project using ESP32
 
 # Components
 - ESP8266 NodeMCU V1.2
@@ -9,7 +9,7 @@ Programmable logic controller project using ESP8266
 - DHT22 temperature sensor
 
 # System Functions
-- ESP8266 Async Web server
+- ESP32 Async Web server
 - SPIFFS bootstrap
 - Programamble control logic system using FSM & FBD
 - None blocking DHT22 sensor library
